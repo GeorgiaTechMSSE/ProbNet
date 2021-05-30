@@ -24,3 +24,5 @@ Details are available in:
 
 The information dynamics of CPSS is modeled and predicted with copulas, vector autoregression, and Gaussian process regression.
 
+Details are available in :
+- Wang, Y. (2021). Probabilistic Modeling of Information Dynamics in Networked Cyber-Physical-Social Systems. IEEE Internet of Things Journal, https://doi.org/10.1109/JIOT.2021.3072893
